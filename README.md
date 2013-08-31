@@ -1,4 +1,4 @@
 ribs-deps
 =========
 
-RIBS pre-compiled dependencies
+Pre-built dependencies for **ribs**: https://github.com/ngryman/ribs.
